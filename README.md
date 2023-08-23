@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Badrun Nessa Antu</h1>
+<h1 align="center">Hi 👋, I'm Badrun Nessa Antu</h1>![result ](https://github.com/antussa2016/antussa2016/assets/22873254/0d19e546-2efd-4ec6-8fb9-82eab88d08cb)
+
 <h3 align="center">Data Science enthusiast</h3>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif">
