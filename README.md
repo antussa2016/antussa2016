@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Science enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antussa2016&label=Profile%20views&color=0e75b6&style=flat" alt="antussa2016" /> </p>
