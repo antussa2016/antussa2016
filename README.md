@@ -7,11 +7,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antussa2016&label=Profile%20views&color=0e75b6&style=flat" alt="antussa2016" /> </p>
 
+
+- 🔭 I’m currently working on **my thesis**
+
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
 
-- 💬 Ask me about **Python**
+- 👯 I’m looking to collaborate on **linkedin**
+
+- 👨‍💻 All of my projects are available at [@github](@github)
+
+- 💬 Ask me about **my interest.**
 
 - 📫 How to reach me **anturex503@gmail.com**
+
+- ⚡ Fun fact **I love making DIY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
