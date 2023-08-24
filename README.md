@@ -1,3 +1,4 @@
+![Yellow Monochrome Photo LinkedIn Banner](https://github.com/antussa2016/antussa2016/assets/22873254/6e52b17f-61da-4919-a75c-c689266bdfad)
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E62970&width=441&lines=Hi!++This+is+Badrun+Nessa+Antu" alt="Typing SVG" /></a></h1>
 
