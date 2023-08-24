@@ -34,3 +34,5 @@
 <a href="https://github.com/antussa2016" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antussa2016&show_icons=true&locale=en&layout=compact" alt="antussa2016" /></a>
 
 <a href="https://github.com/antussa2016" align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antussa2016&" alt="antussa2016" /></a>
+
+<a href="https://github.com/antussa2016" align="left"><img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </a>
