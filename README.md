@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **linkedin**
 
-- 👨‍💻 All of my projects are available at [@github](@github)
+- 📊 My passion revolves around extracting **insights from complex datasets.**
 
 - 💬 Ask me about **my interest.**
 
