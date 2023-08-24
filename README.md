@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Badrun Nessa Antu</h1>
 
+<center><q> <i>As long as you have some breath left,
+       you have to keep going untill you nailed it</i></q>_____ Danny Macaskill</center>
+
 <h3 align="center">Data Science enthusiast</h3>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif">
