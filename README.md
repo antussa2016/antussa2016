@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **linkedin**
 
-- 📊 My passion revolves around extracting **insights from complex datasets.**
+- 📊 My passion revolves around extracting **insights from complex datasets**
 
 - 💬 Ask me about **my interest**
 
