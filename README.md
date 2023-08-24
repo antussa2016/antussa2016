@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Badrun Nessa Antu</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E62970&width=441&lines=Hi!++This+is+Badrun+Nessa+Antu" alt="Typing SVG" /></a></h1>
 
 <p align="center"><i>I'm on an exciting journey through the world of data science. Currently, I'm pursuing my master's degree, delving deep into the fascinating realm of data analysis, machine learning, and all things data-driven.</i></p>
 
