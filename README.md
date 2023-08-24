@@ -1,4 +1,4 @@
-![w8ZJLtJbmuph](https://github.com/antussa2016/antussa2016/assets/22873254/9e6bfaa5-1ebf-49d3-85fb-a391c8068183)
+
 <h1 align="center">Hi 👋, I'm Badrun Nessa Antu</h1>
 
 <p align="center"><i>I'm on an exciting journey through the world of data science. Currently, I'm pursuing my master's degree, delving deep into the fascinating realm of data analysis, machine learning, and all things data-driven.</i></p>
