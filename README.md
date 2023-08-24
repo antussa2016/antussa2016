@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **my interest**
 
-- 📫 How to reach me **anturex503@gmail.com**
-
 - ⚡ Fun fact **I love making DIY**
 
 <h3 align="left">Connect with me:</h3>
