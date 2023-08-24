@@ -15,7 +15,7 @@
 
 - 📊 My passion revolves around extracting **insights from complex datasets.**
 
-- 💬 Ask me about **my interest.**
+- 💬 Ask me about **my interest**
 
 - 📫 How to reach me **anturex503@gmail.com**
 
