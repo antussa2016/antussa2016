@@ -48,7 +48,7 @@
 <a href="https://github.com/antussa2016" align="left"><img align="center" src="https://github.com/antussa2016/antussa2016/blob/output/github-contribution-grid-snake.gif" /> </a>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
