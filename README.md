@@ -6,7 +6,7 @@
 <h3>About me: </h3>
 <p>My journey began with a Bachelor's degree in Computer Science and Engineering, where I gained a profound understanding of the principles that underpin technology. Now I'm on an exciting journey through the world of data science. I started my career as a teacher, and I've always believed that teaching is not just about imparting knowledge, but also about inspiring a genuine passion for exploration and discovery. Currently, I'm pursuing my master's degree in Computer Science and Engineering (CSE), delving deep into the fascinating realm of data analysis, machine learning, and all things data-driven. My academic journey has instilled in me a disciplined approach to research, a meticulous eye for detail, and the ability to thrive in collaborative environments. In this new phase of my professional journey, I am eager to apply my problem-solving aptitude and analytical acumen to extract meaningful patterns from data. As a data scientist, I aim to leverage my background in education to not only uncover insights but also to effectively communicate these findings, transforming raw data into actionable narratives that drive informed decision-making. My academic background, teaching experience, and enthusiasm for learning have cultivated a unique perspective that I am excited to bring to the world of Data Science.</p>
 
-<img align="right" alt="Coding" width="250" src="https://iconscout.com/lottie-animation/female-web-developer-5942137">
+<img align="right" alt="Coding" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
 
