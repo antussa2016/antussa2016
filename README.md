@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **my thesis**
+- 🔭 I’m currently looking for **PhD**
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
 
