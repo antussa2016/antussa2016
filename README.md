@@ -12,7 +12,7 @@
 
 
 
-- 🔭 **PhD** student @MMU Malaysia
+- 🎓 **PhD** student @MMU Malaysia
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
 
