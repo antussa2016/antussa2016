@@ -14,7 +14,7 @@
 
 - 🎓 **PhD** student @MMU Malaysia
 
-- 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
+- 🌱 I’m currently learning **LLMs, Transformers**
 
 - 👯 I’m looking to collaborate on **linkedin**
 
