@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently looking for a **PhD**
+- 🔭 **PhD** student @MMU Malaysia
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
 
