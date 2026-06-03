@@ -12,7 +12,7 @@
 
 
 
-- 🎓 **PhD** student @MMU Malaysia
+- 🎓 Currently doing research
 
 - 🌱 I’m currently learning **LLMs, Transformers**
 
