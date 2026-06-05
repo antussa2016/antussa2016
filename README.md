@@ -6,7 +6,7 @@
 <h3>About me: </h3>
 
 
-<img align="right" alt="Coding" width="250" src="[https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif)">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif">
 
 
 
